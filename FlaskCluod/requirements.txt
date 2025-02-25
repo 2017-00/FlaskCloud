@@ -1,0 +1,7 @@
+Flask
+gunicorn
+keras
+keras-nlp
+tensorflow
+kaggle
+
